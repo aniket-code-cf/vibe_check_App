@@ -18,12 +18,12 @@ const questions = [
 ];
 
 const vibes = [
-  "Cozy Goblin",
-  "Chaotic Dolphin",
-  "Elegant Moth",
-  "Unhinged Wizard",
-  "Moon Witch",
-  "Cool Cat"
+  "Zen Panda 🐼",
+  "Party Squirrel 🐿️",
+  "Mysterious Owl 🦉",
+  "Sleepy Dragon 🐉",
+  "Overthinking Fox 🦊",
+  "Chaotic Goblin 😈"
 ];
 
 let currentQuestion = 0;
